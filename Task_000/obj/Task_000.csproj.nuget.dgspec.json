@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Сабина\\Desktop\\Seminars_C#\\Seminar_1\\Seminars_CSharp\\Task_000\\Task_000.csproj": {}
+    "C:\\Users\\Сабина\\Desktop\\Seminars_C#\\Seminars_CSharp\\Task_000\\Task_000.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Сабина\\Desktop\\Seminars_C#\\Seminar_1\\Seminars_CSharp\\Task_000\\Task_000.csproj": {
+    "C:\\Users\\Сабина\\Desktop\\Seminars_C#\\Seminars_CSharp\\Task_000\\Task_000.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Сабина\\Desktop\\Seminars_C#\\Seminar_1\\Seminars_CSharp\\Task_000\\Task_000.csproj",
+        "projectUniqueName": "C:\\Users\\Сабина\\Desktop\\Seminars_C#\\Seminars_CSharp\\Task_000\\Task_000.csproj",
         "projectName": "Task_000",
-        "projectPath": "C:\\Users\\Сабина\\Desktop\\Seminars_C#\\Seminar_1\\Seminars_CSharp\\Task_000\\Task_000.csproj",
+        "projectPath": "C:\\Users\\Сабина\\Desktop\\Seminars_C#\\Seminars_CSharp\\Task_000\\Task_000.csproj",
         "packagesPath": "C:\\Users\\Сабина\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Сабина\\Desktop\\Seminars_C#\\Seminar_1\\Seminars_CSharp\\Task_000\\obj\\",
+        "outputPath": "C:\\Users\\Сабина\\Desktop\\Seminars_C#\\Seminars_CSharp\\Task_000\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Сабина\\AppData\\Roaming\\NuGet\\NuGet.Config"

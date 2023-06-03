@@ -13,3 +13,15 @@ for(int i = -num; i <= num; i++)
 {
 Console.WriteLine(i);
 }
+
+/*
+Console.Clear();
+Console.Write("Введите число: ");
+int number = int.Parse(Console.ReadLine());
+int i = -1 * number;
+while (i <= number)
+{
+    Console.Write($"asdasd {i}");
+    i++; // i = i + 1
+}
+*/

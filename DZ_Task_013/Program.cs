@@ -5,9 +5,8 @@
 32679 -> 6*/
 
 
-Console.Clear();
-//Console.Write("Введите любое трёхзначное число: ");
 
+Console.Clear();
 
 int ThirdDigit(int number)
         {

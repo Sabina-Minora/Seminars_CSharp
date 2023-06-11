@@ -6,7 +6,7 @@
 
 Console.Clear();
 Console.WriteLine("Введите любое число: ");
-double N = double.Parse(Console.ReadLine());
+double N = double.Parse(Console.ReadLine()!);
 double B = 1;
 
 Console.WriteLine($"Это таблица кубов от 1 до {N}");

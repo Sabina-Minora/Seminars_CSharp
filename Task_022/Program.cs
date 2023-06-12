@@ -23,7 +23,7 @@ while (B <= num)
 } 
 */
 // Решение через массив:
- int N = int.Parse(Console.ReadLine());
+ int N = int.Parse(Console.ReadLine()!);
 
  int[] result = new int[N];
 

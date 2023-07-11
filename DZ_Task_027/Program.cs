@@ -6,7 +6,7 @@
 /* (Неудачная попытка :/)
 
 int[] array = num; // {0, 0, 0 ... 0} {1, 7, 5}
-int n = array.Length;//                 0  1  2
+int n = array.Length;//                0  1  2
 int index = 0;
 
 // int sum = int.Convert.ToInt32(Console.ReadLine()!);

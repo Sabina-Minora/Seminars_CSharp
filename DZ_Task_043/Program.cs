@@ -5,13 +5,13 @@
 
 b1 = 2, k1 = 5, b2 = 4, k2 = 9 -> (-0,5; -0,5) */
 
-﻿using System;
+using System;
 using static System.Console;
 
 Clear();
 Write("Введите через пробел значения b1, k1, b2, k2: ");
 
-string[] f = ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
+string[] f = ReadLine()!.Split(" ", StringSplitOptions.RemoveEmptyEntries);
 double b1 = double.Parse(f[0]);
 double k1 = double.Parse(f[1]);
 double b2 = double.Parse(f[2]);

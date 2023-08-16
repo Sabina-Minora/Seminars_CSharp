@@ -22,9 +22,9 @@ using System;
 using static System.Console;
 
 WriteLine("Введите количество строк массива: ");
-int m = int.Parse(ReadLine());
+int m = int.Parse(ReadLine()!);
 WriteLine("Введите количество столбцов массива: ");
-int n = int.Parse(ReadLine());
+int n = int.Parse(ReadLine()!);
 
 int[,] array = GetArray(m, n, 0, 10);
 PrintArray(array);

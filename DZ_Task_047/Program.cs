@@ -12,10 +12,10 @@ using static System.Console;
 Clear();
 
 Write("Введите количество строк массива: ");
-int m=int.Parse(ReadLine());
+int m=int.Parse(ReadLine()!);
 
 Write("Введите количество столбцов массива: ");
-int n=int.Parse(ReadLine());
+int n=int.Parse(ReadLine()!);
 
 double[,] array = GetArray(m, n, 0, 10);
 PrintArray(array);

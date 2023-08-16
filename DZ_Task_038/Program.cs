@@ -19,6 +19,7 @@ void massive(int a)
 
 }
 
+
 double Diff(double[] randomArray)
 {
     double min = randomArray[0];

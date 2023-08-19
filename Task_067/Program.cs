@@ -8,13 +8,12 @@
 using System;
 using static System.Console;
 
-
 Clear();
 Write("Введите число: ");
 int m = int.Parse(ReadLine());
 
 WriteLine($"Сумма цифр числа {m} = {SumNumbers(m)}");
-// То же действие циклом(проверка).
+// То же действие циклом(проверка)
 int sum = 0;
 while (m > 0)
 {
